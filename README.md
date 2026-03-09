@@ -4,9 +4,9 @@ An interactive dashboard that provides comprehensive insights and predictive ana
 
 ## Built By
 
-* **Gourav Garg** - Project Developer
-* **Deepinder Singh** - Project Developer
-* **Money** - Project Developer
+-Gourav Garg- Project Developer
+-Deepinder Singh - Project Developer
+-Money - Project Developer
 
 ## Technologies Used
 
@@ -14,16 +14,6 @@ An interactive dashboard that provides comprehensive insights and predictive ana
 * CSS3 (Vanilla styles, Light Theme, Glassmorphism UI)
 * Tableau (Data visualization)
 
-## How to Run Locally
-
-You can run this project locally using Python's built-in HTTP server:
-
-```bash
-# Navigate to the project directory
-cd Heart_Disease_Project
-
-# Start a local web server
-python -m http.server 8000
-```
-
-Then, open your web browser and navigate to `http://localhost:8000`.
+## How to View This 
+Open on Browser
+https://heartdiseaseproject.netlify.app/
