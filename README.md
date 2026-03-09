@@ -4,9 +4,9 @@ An interactive dashboard that provides comprehensive insights and predictive ana
 
 ## Built By
 
--Gourav Garg- Project Developer
--Deepinder Singh - Project Developer
--Money - Project Developer
+* -Gourav Garg- Project Developer
+* -Deepinder Singh - Project Developer
+* -Money - Project Developer
 
 ## Technologies Used
 
